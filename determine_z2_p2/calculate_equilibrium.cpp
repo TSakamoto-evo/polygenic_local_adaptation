@@ -139,8 +139,7 @@ int main(){
     }
   }
 
-
-  return(1);
+  return(0);
 }
 
 void calculate_beta_vec(const double theta2, const double sigma, 
