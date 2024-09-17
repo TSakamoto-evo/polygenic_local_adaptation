@@ -56,6 +56,11 @@ The usage is almost identical as the folder "simulation_continent_island".
 Only difference is that symmetric migration is assumed in this version. 
 For convinience, we still use 'continent' and 'island' to call each population although there is no essential difference between the populations. For more details of the usage, see the section for Folder "simulation_continent_island.
 
+## Folder "simulation_continent_island_linkage"
+The usage is almost identical as the folder "simulation_continent_island".
+Only difference is that the focal locus is located in the middle of the background region. 
+For more details of the usage, see the section for Folder "simulation_continent_island.
+
 ## Folder "boundary"
 This code calculates the threshold mutation rate using theory.
 
